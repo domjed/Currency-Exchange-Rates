@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+}
+
+.unselectable {
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+ }
+ 
+ .legend{
+   float: right;
+ }
+ 
+ .axis-labels{
+   font-size: 12pt;
+   color: gray;
+ } 
+
+ .tableHeaderClass{
+  font-size: 20px;
+   font-family: 'Lucida Console';
+ }
